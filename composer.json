@@ -1,5 +1,5 @@
 {
-    "name": "alt-three/bus",
+    "name": "steffjenl/bus",
     "description": "An improved command bus for Laravel",
     "keywords": ["bus", "command", "job", "command bus", "Bus", "Alt Three"],
     "license": "MIT",
